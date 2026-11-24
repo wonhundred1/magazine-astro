@@ -108,3 +108,63 @@ main { padding: 2rem 0 3rem; }
   border-left: 4px solid var(--accent);
   font-size: 0.98rem;
 }
+
+/* --- content media (mobile-first) --- */
+.article img,
+.hero img,
+main img {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  max-height: 42vh;
+  object-fit: contain;
+  object-position: center;
+  margin: 1rem auto 0.4rem;
+  border-radius: 12px;
+  background: #efe8dc;
+}
+@media (min-width: 768px) {
+  .article img,
+  .hero img,
+  main img {
+    max-height: 520px;
+  }
+}
+.article p > img {
+  margin-top: 0.75rem;
+}
+.article em + br + img,
+.article p + p img {
+  margin-top: 0.5rem;
+}
+.article table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  margin: 0.75rem 0 1.25rem;
+}
+.article th,
+.article td {
+  border: 1px solid var(--line);
+  padding: 0.45rem 0.6rem;
+  vertical-align: top;
+  text-align: left;
+}
+.article th {
+  background: #f3eee6;
+  white-space: nowrap;
+}
+.lang-switch a {
+  word-break: break-all;
+  overflow-wrap: anywhere;
+}
+.article pre,
+.article code {
+  max-width: 100%;
+  overflow-x: auto;
+}

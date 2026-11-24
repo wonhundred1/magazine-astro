@@ -21,3 +21,4 @@ See `REGION_BALANCE.md`: Jeolla + Gyeongsang first; nationwide if the brief is s
 6. EN = natural tone, not literal KO mirror
 7. No invented businesses or fake stats
 8. **Footer recommendations**: previous published posts always listed at bottom (related/archive)
+9. **Mobile images**: every illustration must stay readable on phones — CSS constrains img to max-width:100% and max-height:~42vh (contain). Do not rely on raw full-bleed PNG height. Tables must scroll horizontally on small screens.
