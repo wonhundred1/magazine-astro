@@ -61,3 +61,27 @@ main { padding: 2rem 0 3rem; }
   border-left: 4px solid var(--accent);
 }
 .sources { font-size: 0.95rem; color: var(--muted); }
+
+.related {
+  margin: 3rem 0 1rem;
+  padding: 1.4rem 1.5rem 1.6rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+}
+.related h2 { margin: 0 0 0.35rem; font-size: 1.25rem; }
+.related-note { margin: 0 0 1rem; color: var(--muted); font-size: 0.95rem; }
+.related-list { list-style: none; padding: 0; margin: 0; }
+.related-list li { border-top: 1px solid var(--line); }
+.related-list li:first-child { border-top: none; }
+.related-list a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  padding: 0.85rem 0;
+  text-decoration: none;
+  color: inherit;
+}
+.related-list a:hover .related-title { color: var(--accent); }
+.related-meta { font-size: 0.85rem; color: var(--muted); }
+.related-title { font-size: 1.05rem; font-weight: 600; }

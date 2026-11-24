@@ -12,6 +12,23 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const all = (await getCollection('posts', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Prefer same region, then same tags, then newest — always show previous/other published pieces
+const related = all
+  .filter((p) => p.id !== post.id)
+  .sort((a, b) => {
+    const ar = a.data.region === post.data.region ? 0 : 1;
+    const br = b.data.region === post.data.region ? 0 : 1;
+    if (ar !== br) return ar - br;
+    const at = a.data.tags.filter((t) => post.data.tags.includes(t)).length;
+    const bt = b.data.tags.filter((t) => post.data.tags.includes(t)).length;
+    if (bt !== at) return bt - at;
+    return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+  })
+  .slice(0, 6);
 ---
 <BaseLayout title={`${post.data.title} | Sigorhaus Magazine`} description={post.data.description}>
   <article class="article">
@@ -32,4 +49,21 @@ const { Content } = await render(post);
       </section>
     )}
   </article>
+
+  {related.length > 0 && (
+    <section class="related" aria-label="More day trips">
+      <h2>More day trips from the archive</h2>
+      <p class="related-note">Previously published guides — same hub-city / transit style.</p>
+      <ul class="related-list">
+        {related.map((p) => (
+          <li>
+            <a href={`/posts/${p.id}/`}>
+              <span class="related-meta">{p.data.region} · {p.data.pubDate.toISOString().slice(0, 10)}</span>
+              <span class="related-title">{p.data.title}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  )}
 </BaseLayout>
