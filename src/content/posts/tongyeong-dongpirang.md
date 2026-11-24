@@ -1,37 +1,57 @@
 ---
-title: "Tongyeong day trip from Busan — harbour and Dongpirang without a car"
-description: "One long day from Busan Seobu terminal to Tongyeong: mural alleys, harbour food, optional cable car, and a realistic return buffer."
+title: "Tongyeong day trip — Seobu timetable logic, Dongpirang cafés, three maps"
+description: "Long-form Busan-to-Tongyeong day trip without a car: transit table, hourly plan, Dongpirang café names with area hints, and multi-map pins."
 pubDate: 2026-11-24
 updatedDate: 2026-11-24
 draft: false
 region: Tongyeong
-tags: ["busan-hub", "day-trip", "public-transit", "tongyeong", "dongpirang"]
+tags: ["busan-hub", "day-trip", "tongyeong", "dongpirang", "cafes"]
 sources:
-  - "Busan Seobu (Sasang) intercity buses to Tongyeong"
-  - "Tongyeong visitor highlights: Dongpirang, harbour, Mireuksan cable car"
+  - "Busan Seobu terminal to Tongyeong intercity pattern"
+  - "Public map listings for Dongpirang-area cafés"
 lastVerified: "2026-11-24"
 ---
 
-**Hub city:** Busan · **Travel time:** often 1.5–2 hours each way · **Start early**
+![AI illustration of Dongpirang stairs and harbour](/illustrations/dongpirang.png)
 
-Tongyeong works as a day trip only if the bus timetable is part of the plan. Leave early, walk the harbour, climb the mural lanes, eat well, and protect the evening seat home.
+*Illustration (AI): mural stairs over the harbour — not a photograph.*
 
-## Who this is for
-- Korean-speaking ticket buyers at intercity counters
-- Food-focused travelers
-- People okay with stairs
+Leave early or the day becomes a forced march. The intercity clock is the spine of this itinerary.
 
-## How to go
-1. Metro Line 2 to **Sasang** → **Seobu Intercity Bus Terminal**.
-2. Ticket to **Tongyeong (통영)**.
-3. Local bus or short taxi to **Dongpirang** and the central harbour.
-4. Optional Mireuksan cable car.
-5. Return bus with buffer — peak days sell out emotionally if not literally.
+## Transit table
 
-**Maps:** [Google Dongpirang](https://www.google.com/maps/search/?api=1&query=Dongpirang+Village+Tongyeong) · [Naver 동피랑](https://map.naver.com/v5/search/%EB%8F%99%ED%94%BC%EB%9E%91)
+| Leg | Mode | Notes |
+|---|---|---|
+| City → Sasang | Metro Line 2 | Seobu terminal |
+| Sasang → Tongyeong | Intercity bus | Often ~1.5–2h — same-day check |
+| Terminal → Dongpirang | Local bus / short taxi | Jungang Market / harbour belt |
+| Return | Intercity | Protect an afternoon buffer |
 
-## One-day outline
-Early bus · murals + harbour · market lunch · optional cable car · mid/late afternoon return mindset.
+## Maps
+- [Dongpirang](https://www.google.com/maps/search/?api=1&query=Dongpirang+Tongyeong)
+- [Busan Seobu Bus Terminal](https://www.google.com/maps/search/?api=1&query=Busan+Seobu+Bus+Terminal)
+- [Tongyeong Bus Terminal](https://www.google.com/maps/search/?api=1&query=Tongyeong+Intercity+Bus+Terminal)
 
-## Notes
-This is the longest day in the set. If the group tires easily, pick Gimhae or Tongdosa instead.
+## Hourly outline
+
+| Time | Plan |
+|---|---|
+| 07:30–08:30 | Seobu departure window |
+| 10:00–12:30 | Murals + harbour walk |
+| 12:30–14:00 | Market / café |
+| 14:00–15:30 | Optional cable car |
+| 16:00– | Return mindset |
+
+## Cafés often listed on Dongpirang routes
+
+| Name | Area hint | Note |
+|---|---|---|
+| Positives Tongyeong | Jungang Market 4-gil 6-33 area | Dessert café inside mural approaches |
+| Gamsung Coffee Dongpirang | Dongpirang-gil 7 | On the mural path |
+| Luminoso Tongyeong | Upper Dongpirang | View café; parking usually hard |
+| Ullabong | Dongmun-ro 51 area | Near mural entrance in many guides |
+
+Hours and queues change. Some specialty drinks are reservation-only — check the map listing the morning you go.
+
+## Fitness
+Longest day in this Busan-hub set. If mobility is limited, choose Gimhae or Tongdosa first.

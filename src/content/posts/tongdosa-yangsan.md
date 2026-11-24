@@ -1,36 +1,46 @@
 ---
-title: "Tongdosa day trip from Busan — UNESCO temple without a car"
-description: "A half-to-full day from Busan's Nopo terminal to Tongdosa in Yangsan by public bus: pine path, temple halls, and practical return tips."
+title: "Tongdosa from Busan — Nopo bus table, pine path, gate-side food maps"
+description: "Longer day-trip guide to Tongdosa without a car: transit table, hourly plan, multiple maps, and how to handle gate-area restaurants that change often."
 pubDate: 2026-11-24
 updatedDate: 2026-11-24
 draft: false
 region: Yangsan
-tags: ["busan-hub", "day-trip", "public-transit", "tongdosa", "temple"]
+tags: ["busan-hub", "day-trip", "tongdosa", "public-transit"]
 sources:
-  - "UNESCO Sansa Buddhist Mountain Monasteries context (Tongdosa)"
-  - "Busan day-trip routing via Nopo terminal toward Tongdosa"
+  - "UNESCO Sansa context for Tongdosa"
+  - "Busan Nopo terminal routing toward Tongdosa"
 lastVerified: "2026-11-24"
 ---
 
-**Hub city:** Busan · **Car:** not needed · **Overnight:** not required
+![AI illustration of Tongdosa pine approach](/illustrations/tongdosa.png)
 
-Tongdosa is the calm option when you want culture without island logistics. From Busan you can treat it as a half-day or gentle full day using the Nopo terminal corridor.
+*Illustration (AI): pine approach — not a photograph.*
 
-## Who this is for
-- Gyopo families and visitors who can read basic Korean bus boards (통도사)
-- People who want stairs and pine shade more than nightlife
-- Anyone testing public-transit day trips before trying Tongyeong
+## Transit table
 
-## How to go
-1. Metro Line 1 to **Nopo Station** / Busan Central-Dongbu terminal area.
-2. Bus toward **Tongdosa (통도사)** — confirm the platform screen that morning.
-3. Walk the long pine approach into the temple compounds.
-4. Return to Nopo, then Line 1 into the city.
+| Leg | Mode | Notes |
+|---|---|---|
+| City → Nopo | Metro Line 1 | Terminal belt |
+| Nopo → Tongdosa | Intercity / direct bus | Read platform boards / Bustago same morning |
+| Stop → compound | Walk | Long pine approach |
+| Return | Same | Easy half-day or soft full day |
 
-**Maps:** [Google](https://www.google.com/maps/search/?api=1&query=Tongdosa+Yangsan) · [Naver](https://map.naver.com/v5/search/%ED%86%B5%EB%8F%84%EC%82%AC)
+## Maps
+- [Naver 통도사](https://map.naver.com/v5/search/%ED%86%B5%EB%8F%84%EC%82%AC) · [Google Tongdosa](https://www.google.com/maps/search/?api=1&query=Tongdosa+Yangsan)
+- [Google Nopo Station](https://www.google.com/maps/search/?api=1&query=Nopo+Station+Busan)
+- Food search pin: [Tongdosa restaurants](https://www.google.com/maps/search/?api=1&query=Tongdosa+restaurants)
 
-## One-day outline
-Morning outbound · temple walk · simple lunch · afternoon back in Busan.
+## Hourly outline
 
-## Notes
-Respect hall dress codes. Weekends and Buddha's Birthday are busier. Re-check bus times on terminal boards or Bustago before you go.
+| Time | Plan |
+|---|---|
+| 09:30 | Nopo meet |
+| 10:30–13:00 | Pine path + halls |
+| 13:00–14:30 | Gate / Habuk meal or tea |
+| 15:00– | Back to Busan city plans |
+
+## Food note
+Gate-side eateries turn over. Use map “open now,” save **road name + hours**, and if a shop is map-thin, add it to the place-registration sales list instead of inventing a name in the article.
+
+## Manners
+Cover shoulders/knees in halls; expect crowds on Buddha’s Birthday and weekends.
