@@ -10,6 +10,7 @@ sources:
   - "Busan Seobu terminal to Tongyeong intercity pattern"
   - "Public map listings for Dongpirang-area cafés"
 lastVerified: "2026-11-24"
+koUrl: "https://blog.sigorhaus.com/busan-daytrip-tongyeong-dongpirang/"
 ---
 
 ![AI illustration of Dongpirang stairs and harbour](/illustrations/dongpirang.png)

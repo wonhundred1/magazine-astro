@@ -10,6 +10,7 @@ sources:
   - "Busan Seobu routes toward Jinhae"
   - "Yeojwacheon / Gunhangje public visitor context"
 lastVerified: "2026-11-24"
+koUrl: "https://blog.sigorhaus.com/busan-daytrip-jinhae-yeojwacheon/"
 ---
 
 ![AI illustration of Yeojwacheon canal](/illustrations/jinhae.png)

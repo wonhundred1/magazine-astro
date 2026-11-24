@@ -11,6 +11,7 @@ sources:
   - "VisitKorea — Café Sibang-ri (Maemiseong branch)"
   - "Bus 2000 corridor notes Hadan–Gohyeon"
 lastVerified: "2026-11-24"
+koUrl: "https://blog.sigorhaus.com/busan-daytrip-geoje-maemiseong-transit/"
 ---
 
 ![AI illustration of Maemiseong arch and bridge view](/illustrations/maemiseong.png)

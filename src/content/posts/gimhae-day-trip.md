@@ -10,6 +10,7 @@ sources:
   - "Busan–Gimhae Light Rail corridor"
   - "Gimhae royal tombs / museum visitor pattern"
 lastVerified: "2026-11-24"
+koUrl: "https://blog.sigorhaus.com/busan-daytrip-gimhae-royal-tombs/"
 ---
 
 ![AI illustration of Gimhae tumuli park](/illustrations/gimhae.png)

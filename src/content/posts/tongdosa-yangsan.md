@@ -10,6 +10,7 @@ sources:
   - "UNESCO Sansa context for Tongdosa"
   - "Busan Nopo terminal routing toward Tongdosa"
 lastVerified: "2026-11-24"
+koUrl: "https://blog.sigorhaus.com/busan-daytrip-tongdosa-transit/"
 ---
 
 ![AI illustration of Tongdosa pine approach](/illustrations/tongdosa.png)

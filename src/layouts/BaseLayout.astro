@@ -14,7 +14,13 @@ const { title = 'Sigorhaus Magazine', description = 'Place with accuracy. Storie
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/">Sigorhaus Magazine</a>
+      <div class="header-top">
+        <a class="brand" href="/">Sigorhaus Magazine</a>
+        <nav class="header-nav" aria-label="English site links">
+          <a href="https://sigorhaus.com/en/">English home</a>
+          <a href="https://sigorhaus.com/">한국어 홈</a>
+        </nav>
+      </div>
       <p class="tagline">Place with accuracy · Stories with warmth · Sources made clear</p>
     </header>
     <main>
@@ -22,7 +28,12 @@ const { title = 'Sigorhaus Magazine', description = 'Place with accuracy. Storie
     </main>
     <footer class="site-footer">
       <p>A quiet English magazine from Geoje and the southern coast of Korea.</p>
-      <p><a href="https://sigorhaus.com">sigorhaus.com</a></p>
+      <p class="footer-links">
+        <a href="https://sigorhaus.com/en/">sigorhaus.com/en</a>
+        · <a href="/">Magazine home</a>
+        · <a href="https://blog.sigorhaus.com/">Korean blog</a>
+        · <a href="mailto:sigorhaus@gmail.com">sigorhaus@gmail.com</a>
+      </p>
     </footer>
   </body>
 </html>
