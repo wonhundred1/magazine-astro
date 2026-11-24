@@ -1,5 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('posts', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 <BaseLayout title="Sigorhaus Magazine | Geoje & the southern coast">
   <section class="hero">
@@ -10,12 +14,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     </p>
   </section>
 
-  <a class="card" href="/posts/maemiseong/">
-    <p class="meta">Geoje · 1–2 days · Draft</p>
-    <h2>Maemiseong: the castle a shipyard engineer built by hand</h2>
-    <p>
-      After Typhoon Maemi destroyed a seaside field, one man kept stacking stones for more than
-      twenty years. Today the free open-air walls look out toward Geoga Bridge.
-    </p>
-  </a>
+  {posts.map((post) => (
+    <a class="card" href={`/posts/${post.id}/`}>
+      <p class="meta">{post.data.region} · {post.data.pubDate.toISOString().slice(0, 10)}{post.data.updatedDate ? ` · updated ${post.data.updatedDate.toISOString().slice(0, 10)}` : ''}</p>
+      <h2>{post.data.title}</h2>
+      <p>{post.data.description}</p>
+    </a>
+  ))}
 </BaseLayout>
