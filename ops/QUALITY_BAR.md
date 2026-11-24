@@ -1,8 +1,15 @@
 # Quality bar (20/day target)
 
-Cadence: 09:00 x10, 15:00 x10 (KST). Prefer skip over thin filler.
+## Cadence (KST)
+- **09:00** — publish/finalize up to 10 quality pieces
+- **21:00** — publish/finalize up to 10 quality pieces
+- Prefer skip over thin filler.
 
-Each piece must include:
+## Pre-work
+Research, outlines, tables, cafe/map checks, and AI illustrations **may start before** 09:00 / 21:00.
+Treat those hours as checkpoints for publish-ready output, not the first moment work can begin.
+
+## Each piece must include
 1. Long-form sections (who / transit table / hourly table / stops / food / manners / sources)
 2. Rebuilt tables (never leave source table screenshots as final)
 3. Multiple maps (destination + hub + food cluster)
