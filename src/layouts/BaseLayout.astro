@@ -1,0 +1,28 @@
+---
+import '../styles/global.css';
+const { title = 'Sigorhaus Magazine', description = 'Place with accuracy. Stories with warmth. Sources made clear.' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">Sigorhaus Magazine</a>
+      <p class="tagline">Place with accuracy · Stories with warmth · Sources made clear</p>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <p>A quiet English magazine from Geoje and the southern coast of Korea.</p>
+      <p><a href="https://sigorhaus.com">sigorhaus.com</a></p>
+    </footer>
+  </body>
+</html>
