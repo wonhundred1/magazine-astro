@@ -15,7 +15,7 @@ lastVerified: "2026-11-24"
 koUrl: "https://blog.sigorhaus.com/yeosu-odongdo-busan-daytrip-transit/"
 ---
 
-![AI illustration of Odongdo breakwater and camellia island silhouette](/illustrations/yeosu-odongdo.png)
+![AI illustration of Odongdo breakwater and camellia island silhouette](/illustrations/yeosu-odongdo.jpg)
 
 *Illustration (AI): breakwater walk toward a camellia island silhouette — not a photograph.*
 
