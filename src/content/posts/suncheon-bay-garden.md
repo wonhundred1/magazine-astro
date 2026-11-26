@@ -14,7 +14,7 @@ lastVerified: "2026-11-24"
 koUrl: "https://blog.sigorhaus.com/suncheon-bay-garden-busan-daytrip-transit/"
 ---
 
-![AI illustration of Suncheon Bay reed field and garden path](/illustrations/suncheon-bay.png)
+![AI illustration of Suncheon Bay reed field and garden path](/illustrations/suncheon-bay.jpg)
 
 *Illustration (AI): wide reed field and a calm garden path — not a photograph.*
 
