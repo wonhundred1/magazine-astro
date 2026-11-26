@@ -2,16 +2,15 @@
 title: "Christmas Village Busan 2026 — Cinema Center tickets, Centum Metro, evening plan"
 description: "Ticketed Christmas market under Busan Cinema Center (26 Nov–25 Dec 2026): YES24 fare bands, weekday vs weekend hours, Line 2 Centum City walk, multi-maps, and food-search rules without fake shops."
 pubDate: 2026-11-24
-updatedDate: 2026-11-24
+updatedDate: 2026-11-26
 draft: false
 region: Busan
 tags: ["busan", "festival", "christmas", "centum", "ticketed", "public-transit"]
 sources:
-  - "YES24 ticket listing — Christmas Village Busan 2026 (Perf/60679)"
-  - "Organizer / market pages linked from public ticket flow (Cinema Center outdoor plaza)"
-  - "Korea festival calendars summarizing weekday 16:00–22:00 / weekend daytime hours"
+  - "YES24 ticket listing — Christmas Village Busan 2026 (Perf/60679) — live bands 2026-11-26"
+  - "Yonhap / Busan city public notices — ticketed Cinema Center winter market framing"
   - "Busan Metro Line 2 — Centum City Station access pattern"
-lastVerified: "2026-11-24"
+lastVerified: "2026-11-26"
 koUrl: "https://blog.sigorhaus.com/christmas-village-busan-cinema-center-transit/"
 ---
 
@@ -28,18 +27,19 @@ Unlike the **free Haeundae Light Festival**, Christmas Village Busan is a **paid
 - Visitors okay with **advance tickets** and bag checks typical of ticketed grounds
 - People based near Line 2 / Centum who can keep the night short
 
-## Event facts (public ticket & calendar patterns — reconfirm)
+## Event facts (YES24 live bands — reconfirm)
 
-| Item | Public pattern (checked 2026-11-24) |
+| Item | Public pattern (checked **2026-11-26 opening day**) |
 |---|---|
 | Dates | **2026-11-26 – 2026-12-25** |
 | Venue | **Busan Cinema Center** outdoor plaza (Haeundae-gu, Centum area) |
-| Tickets | Sold via major ticketing (YES24 listing publicly referenced); international OTAs sometimes mirrored |
-| Hours (calendar summaries) | Weekdays often **16:00–22:00**; weekends & peak Christmas days often **11:00–22:00** with day/night ticket splits |
-| Fare bands (YES24-style public list) | Example bands around weekday / weekend-day ~**₩5,900**, weekend-night ~**₩7,900**, peak Christmas-season higher (~**₩14,900** class) — **buy live; do not memorize forever** |
-| Weather | Outdoor program may change; check ticket terms for same-day rules |
+| Tickets | **YES24 Perf/60679** (mobile ticket); 1 person max 10 tickets / 4 per session class limits on listing |
+| Hours (YES24 performance guide) | Weekday **16:00–22:00** · weekend daytime **11:00–22:00** · weekend night **16:00–22:00** · Christmas-season block **11:00–22:00** |
+| Fare bands (YES24 grade list 11-26) | **Weekday ₩5,900** · **weekend daytime ₩5,900** · **weekend night ₩7,900** · **Christmas-season ₩14,900** — **buy live; grades can sell out by slot** |
+| Same-day rules | Listing notes same-day purchase possible until session time, with tight cancel rules — read the checkout fine print |
+| Weather | Outdoor program may change; heaters help but wind under the cantilever is real |
 
-Organizer calendars sometimes list **Thu–Sun** concentration early, then **daily** near 21–25 Dec. Always open the live ticket page the morning you go.
+Opening week still means queues at Centum exits. Always open the live ticket page the morning you go.
 
 ## Transit table (pattern — reconfirm same day)
 
