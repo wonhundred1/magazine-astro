@@ -2,8 +2,8 @@
 title: "Jeonju day from a Daejeon stay — express tables, Hanok village maps"
 description: "Same-day Jeonju Hanok Village from Daejeon lodging: Complex Terminal express patterns (~1h30), village etiquette, multi-maps, food-search method — home-field day trip."
 pubDate: 2026-11-26
-updatedDate: 2026-11-26
-draft: true
+updatedDate: 2026-11-27
+draft: false
 region: Jeonju
 tags: ["jeolla", "jeonju", "daejeon-hub", "hanok", "day-trip", "public-transit"]
 sources:
@@ -11,7 +11,7 @@ sources:
   - "VisitKorea — Jeonju Hanok Village public pages"
   - "KOBUS / public express patterns Daejeon Complex to Jeonju (~1h30; fare bands reconfirm)"
   - "Daejeon Complex Terminal boarding guides"
-lastVerified: "2026-11-26"
+lastVerified: "2026-11-27"
 koUrl: "https://blog.sigorhaus.com/daejeon-jeonju-daytrip-transit/"
 ---
 
