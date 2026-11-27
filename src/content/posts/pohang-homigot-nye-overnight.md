@@ -2,8 +2,8 @@
 title: "Homigot New Year sunrise overnight — Pohang hub stay, free festival method"
 description: "Sleep in Pohang and walk Homigot’s free New Year sunrise festival (Dec 31–Jan 1): VisitKorea hours class, square maps, city-bus patterns, cold kit — not a Busan same-night dash."
 pubDate: 2026-11-26
-updatedDate: 2026-11-26
-draft: true
+updatedDate: 2026-11-27
+draft: false
 region: Pohang
 tags: ["gyeongsang", "pohang", "homigot", "sunrise", "nye", "overnight", "public-transit", "event"]
 sources:
@@ -11,7 +11,7 @@ sources:
   - "Pohang Cultural Foundation festival portal (festival.phcf.or.kr) — program reconfirm day-of"
   - "VisitKorea / Pohang public destination pages — Homigot Hands of Harmony cluster"
   - "City-bus / coach patterns toward Homigot (boards win; 200-class notes reconfirm)"
-lastVerified: "2026-11-26"
+lastVerified: "2026-11-27"
 koUrl: "https://blog.sigorhaus.com/pohang-homigot-nye-overnight-transit/"
 ---
 
