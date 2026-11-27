@@ -2,8 +2,8 @@
 title: "Hampyeong Winter Light Festival — free nights at Expo Park from a Gwangju stay"
 description: "Day-or-evening trip to Hampyeong’s free Winter Light Festival (2026-12-18 ~ 12-31, 16:00–21:00): Expo Park + town lights, rail/bus honesty, multi-maps — Gwangju hub preferred."
 pubDate: 2026-11-26
-updatedDate: 2026-11-26
-draft: true
+updatedDate: 2026-11-27
+draft: false
 region: Hampyeong
 tags: ["jeolla", "hampyeong", "lights", "festival", "gwangju-hub", "public-transit", "event"]
 sources:
@@ -11,7 +11,7 @@ sources:
   - "VisitKorea festival detail — free entry; 16:00–21:00; Expo Park + town belt; lights to 2027-01-17"
   - "Hampyeong-gun / Expo Park public pages — park inquiry class 061-320-2230"
   - "Korail patterns Gwangju-Songjeong to Hampyeong (reconfirm last trains before night end)"
-lastVerified: "2026-11-26"
+lastVerified: "2026-11-27"
 koUrl: "https://blog.sigorhaus.com/hampyeong-winter-lights-transit/"
 ---
 
