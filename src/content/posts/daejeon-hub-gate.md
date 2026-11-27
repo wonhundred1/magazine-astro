@@ -2,8 +2,8 @@
 title: "Daejeon as a gate hub — Complex Terminal, station stay, Jeolla & Gyeongsang day legs"
 description: "Use lodging-rich Daejeon as the hotel base for same-day Jeolla and Gyeongsang trips: Complex Terminal platform logic, rail notes, and honest radius — not a Chungcheong-only special."
 pubDate: 2026-11-26
-updatedDate: 2026-11-26
-draft: true
+updatedDate: 2026-11-27
+draft: false
 region: Daejeon
 tags: ["daejeon-hub", "gate", "jeolla", "gyeongsang", "public-transit", "hub-stay"]
 sources:
@@ -11,7 +11,7 @@ sources:
   - "KOBUS express patterns from Daejeon Complex (Jeonju and other legs; day-of fares win)"
   - "Korail KTX patterns Daejeon Station to Gyeongju / other GS legs (reconfirm)"
   - "Daejeon Tourism / public metro notes near station and Yuseong"
-lastVerified: "2026-11-26"
+lastVerified: "2026-11-27"
 koUrl: "https://blog.sigorhaus.com/daejeon-hub-gate-transit/"
 ---
 
