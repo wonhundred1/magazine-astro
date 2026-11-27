@@ -2,7 +2,7 @@
 title: "Andong as a stay hub — station tables, Woryeonggyo night, east-rail gate"
 description: "Treat Andong as the lodging base for inland Gyeongbuk: rail arrival patterns, downtown river night walk, and honest day-trip radius (Hahoe) without forcing a Busan same-day."
 pubDate: 2026-11-26
-updatedDate: 2026-11-26
+updatedDate: 2026-11-27
 draft: false
 region: Andong
 tags: ["gyeongsang", "andong", "hub-stay", "east-rail", "public-transit", "winter"]
@@ -10,7 +10,7 @@ sources:
   - "Andong city tourism / VisitKorea accessible course materials (museum–Woryeonggyo–Hahoe spine)"
   - "Korail Jungang / KTX-Ieum patterns to Andong Station (reconfirm day-of)"
   - "Public Woryeonggyo / downtown river park access patterns"
-lastVerified: "2026-11-26"
+lastVerified: "2026-11-27"
 koUrl: "https://blog.sigorhaus.com/andong-hub-stay-transit/"
 ---
 
@@ -52,6 +52,17 @@ Public tourism courses treat Andong as a **two-day walkable culture city**: muni
 2. **Full day:** [Hahoe Village](/posts/andong-hahoe-day/) (+ mask museum belt when open)
 3. **Optional culture:** municipal museum / folk village pins via map search — verify hours morning-of
 4. **Next hub:** Yeongju Museom / Buseoksa only with honest bus math ([Yeongju piece](/posts/yeongju-museom-village/))
+
+
+## Hourly plan (arrival day + next-morning handoff)
+
+| Block | Plan |
+|---|---|
+| Arrival afternoon | Station/terminal → hotel drop bags; screenshot next-day Hahoe bus pattern |
+| Dusk (winter ~17:00 class) | Walk or short taxi to **Woryeonggyo** belt for free outdoor lights |
+| Early night | Simple dinner via open downtown pins (jjimdak = search method, not one eternal shop) |
+| Night | Early sleep if Hahoe needs a morning ticket/queue buffer |
+| Next morning | Depart for [Hahoe day](/posts/andong-hahoe-day/) — do not invent a same-evening Hahoe dash after a late rail arrival |
 
 ## In-city evening outline
 
