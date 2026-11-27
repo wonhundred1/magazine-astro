@@ -2,8 +2,8 @@
 title: "Yeosu Hyangiram New Year sunrise — Dolsan overnight method from a Yeosu stay"
 description: "Prepare Yeosu’s Hyangiram Sunrise Festival (Dec 31–Jan 1): VisitKorea overnight window, hermitage maps, Dolsan bus honesty — sleep in Yeosu, not a Busan same-night."
 pubDate: 2026-11-26
-updatedDate: 2026-11-26
-draft: true
+updatedDate: 2026-11-27
+draft: false
 region: Yeosu
 tags: ["jeolla", "yeosu", "hyangiram", "sunrise", "nye", "overnight", "public-transit", "event"]
 sources:
@@ -11,7 +11,7 @@ sources:
   - "Yeosu-si tourism festival pages (yeosu.go.kr culture_festa/hyangilam) — program reconfirm"
   - "VisitKorea / Yeosu public pages — Hyangiram hermitage access notes"
   - "Yeosu city bus patterns toward Dolsan / Hyangiram (boards win)"
-lastVerified: "2026-11-26"
+lastVerified: "2026-11-27"
 koUrl: "https://blog.sigorhaus.com/yeosu-hyangiram-sunrise-transit/"
 ---
 
