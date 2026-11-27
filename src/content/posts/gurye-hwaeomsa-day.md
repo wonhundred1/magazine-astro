@@ -2,8 +2,8 @@
 title: "Gurye Hwaeomsa day — Jirisan foothill temple from Suncheon or Gwangju"
 description: "Day-trip Hwaeomsa Temple in Gurye: VisitKorea hours to sunset, free-entry class notes, Gurye terminal bus patterns, multi-maps — foothill hub honesty, not a Busan same-day."
 pubDate: 2026-11-26
-updatedDate: 2026-11-26
-draft: true
+updatedDate: 2026-11-27
+draft: false
 region: Gurye
 tags: ["jeolla", "gurye", "hwaeomsa", "jirisan", "temple", "public-transit", "day-trip"]
 sources:
@@ -11,7 +11,7 @@ sources:
   - "Hwaeomsa official (hwaeomsa.or.kr) — access tables"
   - "Gurye-gun traffic pages — public terminal fares toward Hwaeomsa / Suncheon / Gwangju"
   - "Gurye tourism transport notes (gurye.go.kr/tour)"
-lastVerified: "2026-11-26"
+lastVerified: "2026-11-27"
 koUrl: "https://blog.sigorhaus.com/gurye-hwaeomsa-daytrip-transit/"
 ---
 
